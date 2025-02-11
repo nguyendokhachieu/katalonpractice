@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007_LoginToOrangeHRM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>121dd31f-f3c4-4a1f-bdb6-75d9f15a903f</testCaseGuid>
+</TestCaseEntity>
