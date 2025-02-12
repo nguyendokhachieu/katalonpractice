@@ -20,12 +20,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class clickToLogo {
-
+public class openAirBNB {
+	
 	@Keyword
-	def clickToLogoLink() {
+	def openAirBNBPage() {
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl('https://www.airbnb.com/')
-		WebUI.click(findTestObject('Object Repository/Page_Airbnb  Vacation rentals, cabins, beac_308838/span_Experiences'))
 	}
 }

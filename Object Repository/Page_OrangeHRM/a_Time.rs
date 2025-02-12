@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>55ddfbd0-2876-4f65-ad08-c1599b79207f</webElementGuid>
+      <webElementGuid>8ab7697f-1f68-4abb-b6be-08b5ca23e21a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-main-menu-item</value>
-      <webElementGuid>3206ada9-d411-42c4-91d1-06d52c523468</webElementGuid>
+      <webElementGuid>b4919d40-f6b9-4e95-ac78-03df89aab58b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/time/viewTimeModule</value>
-      <webElementGuid>8c6cadd7-7b19-4918-8d34-948c7116efe7</webElementGuid>
+      <webElementGuid>c5f8b760-7c45-494e-822d-496a7f37560e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Time</value>
-      <webElementGuid>c86cd31e-1b51-47d9-8913-a10fe94ac21b</webElementGuid>
+      <webElementGuid>88538cc1-0eef-4d73-b28f-bdda58ba2155</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>cc502392-2896-4721-b8de-ccab072e9035</webElementGuid>
+      <webElementGuid>f754bf4d-31cc-41d1-9f2c-8bf220691e8d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[4]/a</value>
-      <webElementGuid>5cd9469d-5543-4f1b-ac34-28e1e7cffb2f</webElementGuid>
+      <webElementGuid>fa45939a-ab2b-4a9d-a69a-9d62e7e744c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/time/viewTimeModule')]</value>
-      <webElementGuid>aac1412a-8053-41ac-89c2-7ac96f125edc</webElementGuid>
+      <webElementGuid>5a3ae64c-d915-4de3-9cde-2d270d7f0146</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>b370d21d-13c4-4821-97e8-32ca3f41c950</webElementGuid>
+      <webElementGuid>b6c487a3-182b-46a2-a385-f16ab01223ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +92,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/time/viewTimeModule' and (text() = 'Time' or . = 'Time')]</value>
-      <webElementGuid>d2fde6d3-d76c-4fd6-8263-45f5933ef38f</webElementGuid>
+      <webElementGuid>5055736d-19b7-416e-8b99-e08b833d478b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>e8096499-a61d-4989-b95d-657ad5c84037</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='simple-header-profile-menu']/div/a/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.lgh3vnd.atm_am_1gtjylf.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Airbnb your home'])[1]/following::div[10]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -6,12 +6,11 @@
    <elementGuidId>e125a166-12d7-4643-89ac-513d9083e4d7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div._z5mecy > svg > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,7 +20,7 @@
          <value>internal:label=&quot;Choose a language and currency&quot;i</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

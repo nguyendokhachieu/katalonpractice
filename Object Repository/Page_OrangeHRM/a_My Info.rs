@@ -6,12 +6,11 @@
    <elementGuidId>ad4bd92d-66b8-4fe7-94a2-57f41103accf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[6]/a</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[6]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>922d2858-9105-47d5-8cca-5660ffb3d4fe</webElementGuid>
+      <webElementGuid>58ad3c0a-1806-415f-8ea1-932d39d43197</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-main-menu-item</value>
-      <webElementGuid>aefda0f5-32b0-4219-8cc6-59b742156273</webElementGuid>
+      <webElementGuid>bcfa0729-8d85-4c0d-99a2-e828d2f9f52e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/pim/viewMyDetails</value>
-      <webElementGuid>56d8eacb-0805-4415-bfaa-e5c5953760b6</webElementGuid>
+      <webElementGuid>7bb0e843-4a29-4eeb-9e82-12a016bb7c52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>My Info</value>
-      <webElementGuid>6739c0fe-b0c0-493e-bfb6-38db6336febd</webElementGuid>
+      <webElementGuid>49fb189c-fe13-41b6-973a-eb99e753ec70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>db992234-a9b4-4745-b2e1-f7e115536185</webElementGuid>
+      <webElementGuid>c97bad99-b0aa-4c21-be44-7e7957d1ebe9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[6]/a</value>
-      <webElementGuid>c941b05c-aba1-4736-8271-38635a0180ca</webElementGuid>
+      <webElementGuid>a8a0ab3d-6bbb-45ac-ad3d-1e4cb4625c3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/pim/viewMyDetails')]</value>
-      <webElementGuid>78e5675a-7dfb-4526-8345-59c9b30c92e7</webElementGuid>
+      <webElementGuid>a96a7554-882d-43da-bc3a-e165cd3e7e8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>23ec7b94-fa37-4afe-82e3-d7427c1f6c94</webElementGuid>
+      <webElementGuid>ece00c52-789f-4ba8-981c-b5a457a8b1e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +92,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/pim/viewMyDetails' and (text() = 'My Info' or . = 'My Info')]</value>
-      <webElementGuid>81d24f1e-f320-485b-a64c-b52eb94371c0</webElementGuid>
+      <webElementGuid>6454f293-bb2e-456d-8361-d252dd74086c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
