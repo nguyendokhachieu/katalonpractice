@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IE Driver Server</name>
+   <tag></tag>
+   <elementGuidId>f0d48456-ac1b-480e-8cf3-95719dda6c8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#m-documentationie_driver_server > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='m-documentationie_driver_server']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#m-documentationie_driver_server</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f9b9df39-e476-402f-8893-0cd2c49893f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IE Driver Server</value>
+      <webElementGuid>7a780f9f-c921-4e2b-a0f1-e96d324eb619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m-documentationie_driver_server&quot;)/span[1]</value>
+      <webElementGuid>acd01867-582d-4321-ab52-4a5dd9587e15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='m-documentationie_driver_server']/span</value>
+      <webElementGuid>d7e72246-b9fd-43ef-a50f-624c9c5a1655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External datastore'])[1]/following::span[1]</value>
+      <webElementGuid>1ebe2151-39a3-4407-9aea-ee148da16ca8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customize Node'])[1]/following::span[2]</value>
+      <webElementGuid>0849c4a1-ce84-4c90-8e8c-f07e0f520ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internals'])[1]/preceding::span[1]</value>
+      <webElementGuid>754febb8-f81e-4ff5-aca9-c81a1676df5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE'])[1]/preceding::span[2]</value>
+      <webElementGuid>1fe9c74c-595a-4588-b771-0648f0dff6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IE Driver Server']/parent::*</value>
+      <webElementGuid>bfe6de55-3f1c-4a37-a02e-126b1612cf98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[5]/a/span</value>
+      <webElementGuid>432cf6f8-ca05-49cb-abd9-bbba8fa2073e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'IE Driver Server' or . = 'IE Driver Server')]</value>
+      <webElementGuid>3f964772-50b4-463c-9f42-6768ebe62545</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

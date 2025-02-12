@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>LMAX_Suite01</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f115a25d-7908-4efb-8f7e-7179bc34785d</testSuiteGuid>
+   <testCaseLink>
+      <guid>a1d8faa5-0384-4eeb-a08e-ec53ec7bd55f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/LMAX/TC001_LMAX_Datafile</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>032e732d-d9b6-4700-a138-a3703679ecfc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LMAX_Logindata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>032e732d-d9b6-4700-a138-a3703679ecfc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username1</value>
+         <variableId>38d2d0a7-734c-48e0-9070-d925fcdca716</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>032e732d-d9b6-4700-a138-a3703679ecfc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password1</value>
+         <variableId>ebd4246d-8a8b-4d2e-86e8-64166656a7c1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

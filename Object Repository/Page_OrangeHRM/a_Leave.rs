@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a223725d-940a-4e66-8a49-d1386471aa73</webElementGuid>
+      <webElementGuid>7c5f2fe0-f46e-4b2e-a9ed-7cf58fb20106</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-main-menu-item</value>
-      <webElementGuid>7ba98985-bb33-419b-b875-033101372ecf</webElementGuid>
+      <webElementGuid>5ce04253-a3cc-4e51-9739-d84c5dc93afe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/leave/viewLeaveModule</value>
-      <webElementGuid>2cfa4700-e02d-4654-af56-78ed6eaed140</webElementGuid>
+      <webElementGuid>02c82eff-d6b4-4fc0-ba48-203c042ec854</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Leave</value>
-      <webElementGuid>70e759ce-a779-43ee-a9f3-27e36df5a6b9</webElementGuid>
+      <webElementGuid>5d19bc3d-0d70-498e-a4ca-03d7de7def38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>0388a58f-9672-478c-91ef-f30e52c4b214</webElementGuid>
+      <webElementGuid>25b76b83-eeba-4712-b704-87a0096ee53b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[3]/a</value>
-      <webElementGuid>f3134d54-f1b7-4362-9a8d-aa69d30bbf24</webElementGuid>
+      <webElementGuid>874c48a5-e534-4ba0-ae44-cf6ee3584311</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/leave/viewLeaveModule')]</value>
-      <webElementGuid>5b797410-6b91-4a46-8346-157fe1a97f49</webElementGuid>
+      <webElementGuid>cf738559-6b1f-4466-8d9b-1e1894f4d3c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>3a64889c-fb8e-43ce-89d1-ad50303d7153</webElementGuid>
+      <webElementGuid>5c1fbd72-5072-433d-850b-96e761f48dc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/leave/viewLeaveModule' and (text() = 'Leave' or . = 'Leave')]</value>
-      <webElementGuid>10ce8508-d4e3-4647-b403-6b6cfd190bcf</webElementGuid>
+      <webElementGuid>f77706e5-180f-4f3a-b2ef-359df6320ecc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

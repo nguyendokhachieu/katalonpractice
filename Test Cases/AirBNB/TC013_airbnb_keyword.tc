@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013_airbnb_keyword</name>
+   <tag>keyword_using</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0c7acad1-4692-447b-bd36-2fbb1f418a99</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_System UsersUsernameUser Role-- Select _d086b6</name>
+   <tag></tag>
+   <elementGuidId>fc05e79f-d62b-40df-9947-d19fcccbf1f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-background-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#app div >> internal:has-text=&quot;System UsersUsernameUser Role-- Select --Employee NameInvalidStatus-- Select -- &quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72d2929c-36c2-440b-8b2d-1747fdbe44e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-background-container</value>
+      <webElementGuid>c98e6924-10c9-4f2c-aece-81d2fdf3a7d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>System UsersUsernameUser Role-- Select --Employee NameInvalidStatus-- Select -- Reset  Search  Add  (19) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminOMHtaTheua userEnabledadminjoycarterAdminJoy CarterEnabledg1EGXgJNBpESS8jzUb5S gzeEPU5DisabledIslamESSTruong NguyenEnabledkavitha101AdminJoy CarterEnabledKim EbertAdminChristopher EvansEnabledOrangeESSJoy CarterEnabledpD3g1H0HZLESSA4aHj6P In26LqXDisabledpnqqsonAdminfirstName lastNameEnabledrakanAdminwajd albwardiEnabledrakan3333Adminwajd albwardiEnabledSherefAdminwajd albwardiEnabledshreefAdminwajd albwardiEnabledshreeffAdminwajd albwardiEnabledshreefffAdminwajd albwardiEnabledusername1ESSTodd ThinkpadEnabledusername116AdminfirstName lastNameEnabledxusjkwwAdminfirstName lastNameEnabledybysgrlAdminfirstName lastNameEnabled</value>
+      <webElementGuid>3a5cbe7c-7d54-4752-8abe-410210d8c939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]</value>
+      <webElementGuid>5ac9380c-2812-492d-89e6-471fa1025915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div</value>
+      <webElementGuid>5e1770a5-fc09-4474-8059-5486067fb1f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[5]</value>
+      <webElementGuid>6ab293c6-6ae7-4a63-92a7-17ff880e6bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[5]</value>
+      <webElementGuid>13acd43d-ae31-4278-96c5-05d7aa5325cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>9f9ee3e3-c3a3-4f9e-9eb3-b7e6ad773901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'System UsersUsernameUser Role-- Select --Employee NameInvalidStatus-- Select -- Reset  Search  Add  (19) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminOMHtaTheua userEnabledadminjoycarterAdminJoy CarterEnabledg1EGXgJNBpESS8jzUb5S gzeEPU5DisabledIslamESSTruong NguyenEnabledkavitha101AdminJoy CarterEnabledKim EbertAdminChristopher EvansEnabledOrangeESSJoy CarterEnabledpD3g1H0HZLESSA4aHj6P In26LqXDisabledpnqqsonAdminfirstName lastNameEnabledrakanAdminwajd albwardiEnabledrakan3333Adminwajd albwardiEnabledSherefAdminwajd albwardiEnabledshreefAdminwajd albwardiEnabledshreeffAdminwajd albwardiEnabledshreefffAdminwajd albwardiEnabledusername1ESSTodd ThinkpadEnabledusername116AdminfirstName lastNameEnabledxusjkwwAdminfirstName lastNameEnabledybysgrlAdminfirstName lastNameEnabled' or . = 'System UsersUsernameUser Role-- Select --Employee NameInvalidStatus-- Select -- Reset  Search  Add  (19) Records FoundUsernameAscendingDescendingUser RoleAscendingDescendingEmployee NameAscendingDescendingStatusAscendingDescendingActionsAdminAdminOMHtaTheua userEnabledadminjoycarterAdminJoy CarterEnabledg1EGXgJNBpESS8jzUb5S gzeEPU5DisabledIslamESSTruong NguyenEnabledkavitha101AdminJoy CarterEnabledKim EbertAdminChristopher EvansEnabledOrangeESSJoy CarterEnabledpD3g1H0HZLESSA4aHj6P In26LqXDisabledpnqqsonAdminfirstName lastNameEnabledrakanAdminwajd albwardiEnabledrakan3333Adminwajd albwardiEnabledSherefAdminwajd albwardiEnabledshreefAdminwajd albwardiEnabledshreeffAdminwajd albwardiEnabledshreefffAdminwajd albwardiEnabledusername1ESSTodd ThinkpadEnabledusername116AdminfirstName lastNameEnabledxusjkwwAdminfirstName lastNameEnabledybysgrlAdminfirstName lastNameEnabled')]</value>
+      <webElementGuid>eb8e8a28-d3d8-4563-b1df-228f6719c1c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

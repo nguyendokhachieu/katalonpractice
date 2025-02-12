@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;username&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Username&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6ac479b7-5307-42aa-a5f6-aba3640b835c</webElementGuid>
+      <webElementGuid>285d5d63-bcf3-4d73-8c7e-92016234a4e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-input oxd-input--focus</value>
-      <webElementGuid>e9474949-aaf2-4d23-b27b-fc322462dacc</webElementGuid>
+      <webElementGuid>9f44ef1e-926c-4859-a19e-cc95846bea57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>7835e39b-a43f-4eae-a4b0-1934846b8c6a</webElementGuid>
+      <webElementGuid>2565c654-fd0e-4a4f-8146-27328989b528</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>b4b8f44f-cfe3-4c19-a178-c33e04fceba4</webElementGuid>
+      <value>Username</value>
+      <webElementGuid>f1bdbb54-a85c-411e-9d5d-a3783953574c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus&quot;]</value>
-      <webElementGuid>8addc668-c898-421f-9777-d6d64dbd4115</webElementGuid>
+      <webElementGuid>d34f6b56-0247-40bf-8139-ea5ef524707f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='username']</value>
-      <webElementGuid>4593bceb-9ee6-41ff-9d43-a7084c8733dd</webElementGuid>
+      <webElementGuid>db503527-5e4f-4ab7-89fc-c7ea8e2dafba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/form/div/div/div[2]/input</value>
-      <webElementGuid>79acef81-9476-4196-a296-c6b8481968a1</webElementGuid>
+      <webElementGuid>93a46dd3-4cf3-43e7-8c69-c4557e5d6c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,15 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>5d1c9373-8397-4f20-b322-7ad621fe4272</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@name = 'username' and @placeholder = 'username']</value>
-      <webElementGuid>6e3ffd6b-eb67-488c-90ba-d41dcd774409</webElementGuid>
+      <webElementGuid>8af056f4-4232-4eb4-870d-2719ae6ba8f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'username' and @placeholder = 'Username']</value>
-      <webElementGuid>2a41272a-70e5-4d01-ada8-50fae89bbc8a</webElementGuid>
+      <webElementGuid>c91143a3-fd9b-405f-9c71-73212771de02</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

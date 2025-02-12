@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_OrangeHRM_SidebarLink</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>02eeeb50-34be-4dd9-9d3f-48c996604a6e</testCaseGuid>
+</TestCaseEntity>

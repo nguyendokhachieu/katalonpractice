@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>OrangeHRM_Suite07</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>03f05d6a-be7c-4940-82a8-d05ee6938a0c</testSuiteGuid>
+   <testCaseLink>
+      <guid>6240a619-4649-4ea1-91fe-bb893663bc6e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/OrangeHRM/TC009_Datafile_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>37525c44-7677-4eb3-8965-5883514c209e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/OrangeHRM_Logintestdata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>37525c44-7677-4eb3-8965-5883514c209e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>b1541983-4692-40a2-aef4-3bbfd07c63b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>37525c44-7677-4eb3-8965-5883514c209e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>157f87b5-c95a-4391-9cc8-86a0b7da9a15</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ThingsBoard_Suite01</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8e96f1b8-d3d9-4d93-991e-888608e313e5</testSuiteGuid>
+   <testCaseLink>
+      <guid>4687f45b-dc80-4295-a908-30284f608e9b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ThingsBoard/TC001_ThingsBoard_datafiles</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>97e4d844-1045-4837-9153-ee228bd79ceb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ThingsBoard_loginsampledata</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>97e4d844-1045-4837-9153-ee228bd79ceb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username2</value>
+         <variableId>eafe9ecc-68c2-42eb-b6c2-51a38fc8e341</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>97e4d844-1045-4837-9153-ee228bd79ceb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password2</value>
+         <variableId>36492cd1-64c9-4d95-9dea-c90d48a70ac8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_OrangeHRM_SearchSysUser</name>
+   <tag>search</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a2d37ec7-5919-4c1e-a8dc-5717b567a1a9</testCaseGuid>
+</TestCaseEntity>

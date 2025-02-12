@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_LMAX_Datafile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4c38bd7-49fc-4b01-aca2-132cff763e7a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>38d2d0a7-734c-48e0-9070-d925fcdca716</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebd4246d-8a8b-4d2e-86e8-64166656a7c1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38d2d0a7-734c-48e0-9070-d925fcdca716</id>
+      <masked>false</masked>
+      <name>username1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebd4246d-8a8b-4d2e-86e8-64166656a7c1</id>
+      <masked>false</masked>
+      <name>password1</name>
+   </variable>
+</TestCaseEntity>

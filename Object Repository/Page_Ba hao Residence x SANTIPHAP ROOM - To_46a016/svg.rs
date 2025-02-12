@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>97b12b89-081f-4803-aea6-8f0865ed4fba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.c1lbtiq8.atm_mk_stnw88.atm_9s_1txwivl.atm_fq_1tcgj5g.atm_wq_kb7nvz.atm_tk_1tcgj5g.dir.dir-ltr > button.l1ovpqvx.atm_1he2i46_1k8pnbi_10saat9.atm_yxpdqi_1pv6nv4_10saat9.atm_1a0hdzc_w1h1e8_10saat9.atm_2bu6ew_929bqk_10saat9.atm_12oyo1u_73u7pn_10saat9.atm_fiaz40_1etamxe_10saat9.c1h5tsj6.atm_1s_glywfm.atm_5j_1ssbidh.atm_9j_tlke0l.atm_tl_1gw4zv3.atm_9s_1o8liyq.atm_mk_h2mmj6.atm_l8_idpfg4.atm_gi_idpfg4.atm_3f_glywfm.atm_26_1j28jx2.atm_7l_hkljqm.atm_uc_10d7vwn.atm_kd_glywfm.atm_kd_glywfm_1w3cfyq.atm_3f_glywfm_e4a3ld.atm_l8_idpfg4_e4a3ld.atm_gi_idpfg4_e4a3ld.atm_3f_glywfm_1r4qscq.atm_kd_glywfm_6y7yyg.atm_kd_glywfm_pfnrn2_1oszvuo.atm_l8_idpfg4_1icshfk_1oszvuo.atm_gi_idpfg4_1icshfk_1oszvuo.atm_3f_glywfm_b5gff8_1oszvuo.atm_kd_glywfm_2by9w9_1oszvuo.atm_k4_1piyxwk_1o5j5ji.atm_9j_13gfvf7_1o5j5ji.atm_uc_glywfm__1rrf6b5.atm_7l_wbi19n_1nos8r_uv4tnr.atm_26_zbnr2t_1rqz0hn_uv4tnr.atm_7l_1wxwdr3_4fughm_uv4tnr.atm_26_1j28jx2_1r92pmq_uv4tnr.atm_7l_wbi19n_csw3t1.atm_tr_ffmgpj_csw3t1.atm_26_zbnr2t_1ul2smo.atm_3f_glywfm_jo46a5.atm_l8_idpfg4_jo46a5.atm_gi_idpfg4_jo46a5.atm_3f_glywfm_1icshfk.atm_kd_glywfm_19774hq.atm_uc_aaiy6o_1w3cfyq.atm_70_glywfm_1w3cfyq.atm_uc_glywfm_1w3cfyq_1rrf6b5.atm_70_1e7pbig_9xuho3.atm_26_zbnr2t_9xuho3.atm_uc_aaiy6o_pfnrn2_1oszvuo.atm_70_glywfm_pfnrn2_1oszvuo.atm_uc_glywfm_pfnrn2_1o31aam.atm_70_1e7pbig_1buez3b_1oszvuo.atm_26_zbnr2t_1buez3b_1oszvuo.atm_7l_1wxwdr3_1o5j5ji.atm_26_1j28jx2_154oz7f.atm_92_1yyfdc7_vmtskl.atm_9s_1ulexfb_vmtskl.atm_mk_stnw88_vmtskl.atm_tk_1ssbidh_vmtskl.atm_fq_1ssbidh_vmtskl.atm_tr_pryxvc_vmtskl.atm_5j_1ssbidh_vmtskl.atm_vy_1vi7ecw_vmtskl.atm_e2_1vi7ecw_vmtskl.dir.dir-ltr > span.i3tjjh1.atm_mk_h2mmj6.dir.dir-ltr > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Close&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>655110fc-f8a6-4133-afac-7b2641907332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d4b57f35-3ae0-47f9-85ad-e6a658ba2661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 32 32</value>
+      <webElementGuid>1088978d-89ff-490c-9c65-0e313b899536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5170a146-5e31-4c7e-9fd5-588735f83e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>ecaec1d1-bcd1-4646-8af6-83ccf557b412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ce7cd589-9c88-457d-8e49-4383283df86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollbar-gutter dir native vz2oe5x v1koiow6 vrbhsjc vgue9iu vyb6402&quot;]/body[@class=&quot;with-new-header&quot;]/div[9]/div[1]/div[@class=&quot;t1bgcr6e  cjz5kiq&quot;]/section[1]/div[@class=&quot;c1wj82si atm_wq_z68epy atm_mk_1n9t6rb atm_tk_idpfg4 atm_n3_idpfg4 atm_6i_idpfg4 atm_fq_idpfg4 atm_iy_18ock4e atm_lo_10kf5qn atm_9s_1txwivl atm_ar_vrvcex atm_h_esu3gu atm_fc_1h6ojuz atm_iy_uat40h__js3chn atm_le_cymnp7__1138a75 atm_l8_1ylpe5n__1d8hi0p atm_h_1h6ojuz__1d8hi0p atm_lo_13n212w_lugegx atm_le_wl67f7_lugegx atm_le_wl67f7_lugegx_oggzyc atm_lo_10kf5qn_lugegx_emjan6 atm_le_cymnp7_lugegx_fd6hig atm_lo_1ylpe5n_lugegx_1d8hi0p atm_le_1ylpe5n_lugegx_1d8hi0p dir dir-ltr&quot;]/div[@class=&quot;p1psejvv atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;p1psejvv atm_9s_1bgihbq dir dir-ltr&quot;]/div[@class=&quot;d1esrtf4 atm_ks_zryt35 atm_mk_h2mmj6 atm_26_1qwqy05 atm_vy_auwlz6 atm_j3_auwlz6 atm_iy_1osqo2v atm_9s_1txwivl atm_ar_1bp4okc atm_70_rgs8xj atm_6a_kitwna atm_6c_kitwna atm_16_kb7nvz atm_12_1hrf63d atm_1c_wdmfph atm_1k_10p890i atm_y_1tad3g6 atm_tw_uaqxkr atm_im2n7a_1osqo2v atm_189k8xb_1osqo2v atm_ks_15vqwwr__1yj3dog atm_kd_glywfm_pfnrn2 atm_vy_1osqo2v__oggzyc atm_j3_1oh5ri2__oggzyc atm_5j_kitwna__oggzyc atm_16_kb7nvz__oggzyc atm_12_1hrf63d__oggzyc atm_1c_1hch5iq__oggzyc atm_y_vegxqt__oggzyc atm_1k_so3mv5__oggzyc atm_tw_uaqxkr__oggzyc atm_im2n7a_n7od8j__oggzyc atm_189k8xb_n7od8j__oggzyc atm_1c_v4aen9__1rrf6b5 atm_y_t0utr__1rrf6b5 atm_1k_1ar7sfh__1rrf6b5 atm_6a_idpfg4_dvjp0m atm_6c_idpfg4_dvjp0m atm_5j_idpfg4_dvjp0m_oggzyc atm_6a_kitwna_dvjp0m_emjan6 atm_6c_kitwna_dvjp0m_emjan6 atm_5j_kitwna_dvjp0m_fd6hig d1pfb5z4 dir dir-ltr&quot;]/div[@class=&quot;c1lbtiq8 atm_mk_stnw88 atm_9s_1txwivl atm_fq_1tcgj5g atm_wq_kb7nvz atm_tk_1tcgj5g dir dir-ltr&quot;]/button[@class=&quot;l1ovpqvx atm_1he2i46_1k8pnbi_10saat9 atm_yxpdqi_1pv6nv4_10saat9 atm_1a0hdzc_w1h1e8_10saat9 atm_2bu6ew_929bqk_10saat9 atm_12oyo1u_73u7pn_10saat9 atm_fiaz40_1etamxe_10saat9 c1h5tsj6 atm_1s_glywfm atm_5j_1ssbidh atm_9j_tlke0l atm_tl_1gw4zv3 atm_9s_1o8liyq atm_mk_h2mmj6 atm_l8_idpfg4 atm_gi_idpfg4 atm_3f_glywfm atm_26_1j28jx2 atm_7l_hkljqm atm_uc_10d7vwn atm_kd_glywfm atm_kd_glywfm_1w3cfyq atm_3f_glywfm_e4a3ld atm_l8_idpfg4_e4a3ld atm_gi_idpfg4_e4a3ld atm_3f_glywfm_1r4qscq atm_kd_glywfm_6y7yyg atm_kd_glywfm_pfnrn2_1oszvuo atm_l8_idpfg4_1icshfk_1oszvuo atm_gi_idpfg4_1icshfk_1oszvuo atm_3f_glywfm_b5gff8_1oszvuo atm_kd_glywfm_2by9w9_1oszvuo atm_k4_1piyxwk_1o5j5ji atm_9j_13gfvf7_1o5j5ji atm_uc_glywfm__1rrf6b5 atm_7l_wbi19n_1nos8r_uv4tnr atm_26_zbnr2t_1rqz0hn_uv4tnr atm_7l_1wxwdr3_4fughm_uv4tnr atm_26_1j28jx2_1r92pmq_uv4tnr atm_7l_wbi19n_csw3t1 atm_tr_ffmgpj_csw3t1 atm_26_zbnr2t_1ul2smo atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_aaiy6o_1w3cfyq atm_70_glywfm_1w3cfyq atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_70_1e7pbig_9xuho3 atm_26_zbnr2t_9xuho3 atm_uc_aaiy6o_pfnrn2_1oszvuo atm_70_glywfm_pfnrn2_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam atm_70_1e7pbig_1buez3b_1oszvuo atm_26_zbnr2t_1buez3b_1oszvuo atm_7l_1wxwdr3_1o5j5ji atm_26_1j28jx2_154oz7f atm_92_1yyfdc7_vmtskl atm_9s_1ulexfb_vmtskl atm_mk_stnw88_vmtskl atm_tk_1ssbidh_vmtskl atm_fq_1ssbidh_vmtskl atm_tr_pryxvc_vmtskl atm_5j_1ssbidh_vmtskl atm_vy_1vi7ecw_vmtskl atm_e2_1vi7ecw_vmtskl dir dir-ltr&quot;]/span[@class=&quot;i3tjjh1 atm_mk_h2mmj6 dir dir-ltr&quot;]/svg[1]</value>
+      <webElementGuid>a747f76d-3951-4eda-a655-90521a338db7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VND'])[3]/following::*[name()='svg'][4]</value>
+      <webElementGuid>71d002e1-3b50-4cad-aee9-29823659d33e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₫'])[3]/following::*[name()='svg'][4]</value>
+      <webElementGuid>3b11c7a2-8823-4fec-9208-b1a6832b9bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Translation on'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>421512a9-e494-491e-ac93-e055caaced70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Translation settings'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>dba323ea-4c8a-473c-8354-c2d24ffe0524</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

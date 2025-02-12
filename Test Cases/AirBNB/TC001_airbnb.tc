@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_airbnb</name>
+   <tag>airbnb</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0e466e5-0b39-4268-8054-d9a127e6e7e8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_OrangeHRM_AddSystemAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8b37256-d6b3-4695-970d-a74263569fb1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>View system account</description>
+   <name>TC004_OrangeHRM_SystemAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c85193c8-b59e-4366-821b-18a10a5d8df0</testCaseGuid>
+</TestCaseEntity>
