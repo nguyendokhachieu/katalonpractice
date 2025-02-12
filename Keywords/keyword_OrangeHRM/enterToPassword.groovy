@@ -1,4 +1,4 @@
-package keyword_AirBNB
+package keyword_OrangeHRM
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -20,12 +20,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class clickToExperience {
-
+public class enterToPassword {
 	@Keyword
-	def clickExperienceLink() {
+	def enterToPasswordTextbox() {
 		WebUI.openBrowser('')
-		WebUI.navigateToUrl('https://www.airbnb.com/')
-		WebUI.click(findTestObject('Object Repository/Page_Airbnb  Vacation rentals, cabins, beac_308838/span_Experiences'))
+		
+		WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+		
+		WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/p_Password  admin123'))
+		
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 	}
 }

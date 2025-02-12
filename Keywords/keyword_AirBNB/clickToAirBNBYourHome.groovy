@@ -20,10 +20,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class clickToExperience {
-
+public class clickToAirBNBYourHome {
+	
 	@Keyword
-	def clickExperienceLink() {
+	def clickToAirBNBYourHomeButton() {
 		WebUI.openBrowser('')
 		WebUI.navigateToUrl('https://www.airbnb.com/')
 		WebUI.click(findTestObject('Object Repository/Page_Airbnb  Vacation rentals, cabins, beac_308838/span_Experiences'))
