@@ -18,15 +18,12 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 /*
- * Open browser and go to web: https://translate.google.com/?sl=auto&tl=vi&op=translate
+ * Open browser and go to web: https://academy.katalon.com/
  * Close browser
- * 
+ *
  * */
-// Open the browser and navigate to the specified URL
-WebUI.openBrowser('')
-
-// Navigate to Google Translate
-WebUI.navigateToUrl('https://translate.google.com/?sl=auto&tl=vi&op=translate')
-
+// Open a browser and navigate to the specified URL
+WebUI.openBrowser('') 
+WebUI.navigateToUrl('https://academy.katalon.com/') 
 // Close the browser
 WebUI.closeBrowser()

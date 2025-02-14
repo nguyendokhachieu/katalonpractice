@@ -17,16 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
+
 /*
- * Open browser and go to web: https://translate.google.com/?sl=auto&tl=vi&op=translate
+ * Open browser and go to web: https://tms.fsoft.com.vn/
  * Close browser
- * 
+ *
  * */
-// Open the browser and navigate to the specified URL
+// Open a browser and navigate to the specified URL
 WebUI.openBrowser('')
 
-// Navigate to Google Translate
-WebUI.navigateToUrl('https://translate.google.com/?sl=auto&tl=vi&op=translate')
+// Navigate to the web application
+WebUI.navigateToUrl('https://tms.fsoft.com.vn/')
 
 // Close the browser
 WebUI.closeBrowser()

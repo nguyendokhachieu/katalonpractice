@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC100</name>
+   <name>TC106</name>
    <tag>GenAI</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3e5a304d-c9c2-4210-907e-046a5198defc</testCaseGuid>
+   <testCaseGuid>572fbd68-5a6d-43aa-9c54-0086d3e026f9</testCaseGuid>
 </TestCaseEntity>
